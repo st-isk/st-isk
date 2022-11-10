@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://drive.google.com/file/d/1tZaG-q3moReasjqgOdcyOrP2DfJF9tkx/view?usp=sharing" title="CV">Alex</a> 👋
+<h1 align="center">Hi there, I'm <a href="https://drive.google.com/file/d/1tZaG-q3moReasjqgOdcyOrP2DfJF9tkx/view?usp=sharing" title="CV" target="_blank">Alex</a> 👋
 <h3 align="center">Bachelor of Science in Applied Mathematics, IT enthusiast</h3>
 
 ## Selected projects:
