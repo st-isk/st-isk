@@ -8,5 +8,5 @@
 * ### [MAI schedule parser](https://github.com/st-isk/mai-schedule-parser)
 #### Custom parser for schedule extracting from the official website of MAI.
 
-* ### [Tender reminder](https://github.com/st-isk/tender-reminder)
-#### A C# Windows Forms utility for periodic reminders to check companies’ tenders.
+* ### [Vue3 blog](https://github.com/st-isk/vue3-course-blog)
+#### A small single-page application with a blog containing text posts.
