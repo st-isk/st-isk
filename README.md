@@ -6,7 +6,7 @@
 #### A C# web application (Blazor) with NoSQL database that allows you to track the occupancy of classrooms quickly and conveniently in real time by using an interactive map, as well as providing the ability to reserve free classrooms for elective classes, events or co-working.
 
 * ### [MAI schedule parser](https://github.com/st-isk/mai-schedule-parser)
-#### Custom parser for schedule extracting from the official website of MAI.
+#### A Custom parser for schedule extracting from the official website of MAI.
 
 * ### [Vue3 blog](https://github.com/st-isk/vue3-course-blog)
 #### A small single-page application with a blog containing text posts.
