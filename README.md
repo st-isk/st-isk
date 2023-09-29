@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Alex 👋
+<h1 align="center">Hi there, I'm Alex 👋</h1>
 <h3 align="center">Bachelor of Science in Applied Mathematics, IT enthusiast</h3>
 <h3 align="center">Now studying a computer science and computer engineering master's degree at HSE</h3>
 
-<h3 align="center">Here is my <a href="https://drive.google.com/file/d/1tZaG-q3moReasjqgOdcyOrP2DfJF9tkx/view?usp=sharing" title="CV" target="_blank">CV</a> 📄</h3>
+<h3 align="center"><a href="https://drive.google.com/file/d/1tZaG-q3moReasjqgOdcyOrP2DfJF9tkx/view?usp=sharing" title="CV" target="_blank">Here is my CV</a>📄</h3>
 
 ## Selected projects:
 * ### [MAI interactive map](https://github.com/st-isk/mai-interactive-map)
